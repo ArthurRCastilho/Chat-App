@@ -27,7 +27,7 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 
 
 ### Dependências
-- ``Nenhum por Enquanto``
+- ``image_picker: ^1.1.2``
 
 ### Tecnologias utilizadas
 - ``VSCode``
