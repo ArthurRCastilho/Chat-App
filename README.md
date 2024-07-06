@@ -19,7 +19,7 @@ Este projeto foi totalmente feito a partir de um curso da udemy, na qual você p
 
 Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - [ ] Auth Page;
-- [ ] Upload de Imagens;
+- [X] Upload de Imagens;
 - [ ] Chat;
 - [ ] Message Bubble;
 - [ ] PushNotification;
