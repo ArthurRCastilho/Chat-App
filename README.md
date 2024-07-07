@@ -18,8 +18,9 @@ Neste aplicativo, aprendi conceitos de PushNotification, Firebase e Upload de Im
 Este projeto foi totalmente feito a partir de um curso da udemy, na qual você pode [clicar aqui](https://www.udemy.com/course/curso-flutter/?couponCode=ST6MT42324) para acessar o curso<br>
 
 Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
-- [ ] Auth Page;
+- [X] Auth Page;
 - [X] Upload de Imagens;
+- [X] Stream;
 - [ ] Chat;
 - [ ] Message Bubble;
 - [ ] PushNotification;
