@@ -20,6 +20,16 @@ class MyApp extends StatelessWidget {
           tertiary: Colors.green,
           error: Colors.red,
         ),
+        appBarTheme: const AppBarTheme(
+          backgroundColor: Colors.blueAccent,
+          titleTextStyle: TextStyle(
+            color: Colors.white,
+            fontSize: 20,
+          ),
+          actionsIconTheme: IconThemeData(
+            color: Colors.white,
+          ),
+        ),
         useMaterial3: true,
         scaffoldBackgroundColor: Colors.white,
       ),
