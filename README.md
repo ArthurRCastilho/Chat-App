@@ -21,7 +21,7 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - [X] Auth Page;
 - [X] Upload de Imagens;
 - [X] Stream;
-- [ ] Chat;
+- [X] Chat;
 - [X] Message Bubble;
 - [ ] PushNotification;
 - [ ] Firebase;
