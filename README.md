@@ -9,7 +9,7 @@ Neste aplicativo, aprendi conceitos de PushNotification, Firebase e Upload de Im
 
 > :construction: Projeto em construção :construction:
 
-<img src="./assets/readme/images/SignupScreen.png" alt="Tela de Cadastro" width="270px"> <img src="./assets/readme/images/SignupScreen.png" alt="Chat Tela" width="270px">
+<img src="./assets/readme/images/SignupScreen.png" alt="Tela de Cadastro" width="270px"> <img src="./assets/readme/images/ChatScreen.png" alt="Chat Tela" width="270px">
 
 #### GIFS
 
