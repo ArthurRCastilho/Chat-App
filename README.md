@@ -31,6 +31,7 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 
 ### Dependências
 - ``image_picker: ^1.1.2``
+- ``provider: ^6.1.2``
 
 ### Tecnologias utilizadas
 - ``VSCode``
