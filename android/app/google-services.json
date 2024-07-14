@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119872791242",
+    "project_id": "study-chat-5c19f",
+    "storage_bucket": "study-chat-5c19f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119872791242:android:db3dcd8184cd530f414a33",
+        "android_client_info": {
+          "package_name": "br.com.study.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAKzsg5h3ch2ZRYYMgyO2I8IeomcoFwI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
