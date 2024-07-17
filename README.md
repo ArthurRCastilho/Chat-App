@@ -25,8 +25,9 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - [X] Stream;
 - [X] Chat;
 - [X] Message Bubble;
+- [X] Autenticação com Firebase;
+- [ ] Salvar mensagens no Firestore;
 - [ ] PushNotification;
-- [ ] Firebase;
 
 
 ### Dependências
@@ -34,6 +35,7 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - ``provider: ^6.1.2``
 - ``cloud_firestore: ^5.1.0``
 - ``firebase_auth: ^5.1.2``
+- ``firebase_storage: ^12.1.1``
 
 ### Tecnologias utilizadas
 - ``VSCode``
