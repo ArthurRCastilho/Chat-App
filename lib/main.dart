@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSwatch().copyWith(
             primary: Colors.blue,
             secondary: Colors.red,
-            tertiary: Colors.green,
+            tertiary: Colors.cyan,
             error: Colors.red,
           ),
           appBarTheme: const AppBarTheme(
