@@ -19,7 +19,6 @@ class _AuthPageState extends State<AuthPage> {
       setState(() => _isLoading = true);
 
       if (formData.isLogin) {
-        print('login');
         // Login
         await AuthService().login(
           formData.email,
@@ -27,7 +26,6 @@ class _AuthPageState extends State<AuthPage> {
         );
       } else {
         // Signup
-        print('signup');
         await AuthService().signup(
           formData.name,
           formData.email,
