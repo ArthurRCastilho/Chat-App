@@ -36,6 +36,7 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - ``cloud_firestore: ^5.1.0``
 - ``firebase_auth: ^5.1.2``
 - ``firebase_storage: ^12.1.1``
+- ``firebase_messaging: ^15.0.3``
 
 ### Tecnologias utilizadas
 - ``VSCode``
