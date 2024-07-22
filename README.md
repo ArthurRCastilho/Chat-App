@@ -26,7 +26,7 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - [X] Chat;
 - [X] Message Bubble;
 - [X] Autenticação com Firebase;
-- [X] Salvar mensagens no Firestore;
+- [X] Armazenamento de mensagens no Firestore;
 - [ ] PushNotification;
 
 
