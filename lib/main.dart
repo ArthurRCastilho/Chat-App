@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'ChatApp',
         theme: ThemeData(
           primaryColor: Colors.blueAccent,
           colorScheme: ColorScheme.fromSwatch().copyWith(

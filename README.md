@@ -7,13 +7,11 @@ Neste aplicativo, aprendi conceitos de PushNotification, Firebase e Upload de Im
 
 ### Layout
 
-> :construction: Projeto em construção :construction:
-
-<img src="./assets/readme/images/SignupScreen.png" alt="Tela de Cadastro" width="270px"> <img src="./assets/readme/images/ChatScreen.png" alt="Chat Tela" width="270px">
+<img src="./assets/readme/images/SignupScreen.png" alt="Tela de Cadastro" width="270px"> <img src="./assets/readme/images/ChatScreen2.png.png" alt="Chat Tela" width="270px">
 
 #### GIFS
 
-> :construction: Projeto em construção :construction:
+<img src="./assets/readme/gif/GifApp.gif" alt="GifApp" width="270px">
 
 ## Como foi feito este projeto?
 
@@ -27,7 +25,7 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - [X] Message Bubble;
 - [X] Autenticação com Firebase;
 - [X] Armazenamento de mensagens no Firestore;
-- [ ] PushNotification;
+- [X] PushNotification;
 
 
 ### Dependências
@@ -45,5 +43,8 @@ Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - ``XCode = Emulador de IOs``
 - ``Android Studio = Emulador Android``
 - ``iPad = Emulador iPadOS``
+
+#### Observação
+Não consegui testar o PushNotification no iOS pois não tenho conta no apple developer.
 
 <img src="https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/img/UdemyImg.png" alt="Logo da Udemy">
