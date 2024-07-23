@@ -7,7 +7,7 @@ Neste aplicativo, aprendi conceitos de PushNotification, Firebase e Upload de Im
 
 ### Layout
 
-<img src="./assets/readme/images/SignupScreen.png" alt="Tela de Cadastro" width="270px"> <img src="./assets/readme/images/ChatScreen2.png.png" alt="Chat Tela" width="270px">
+<img src="./assets/readme/images/SignupScreen.png" alt="Tela de Cadastro" width="270px"> <img src="./assets/readme/images/ChatScreen2.png" alt="Chat Tela" width="270px">
 
 #### GIFS
 
